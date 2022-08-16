@@ -1,5 +1,5 @@
 ## Hi, I'm Anton.
-I like to make delicious pizza and write code. Based in Kyiv, Ukraine.
+I like to make delicious pizza and write code.
 
 ### Get in Touch
 ```
